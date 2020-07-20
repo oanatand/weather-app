@@ -11,7 +11,7 @@ weather.temperature = {
 const KELVIN = 273;
 
 // API KEY
-const key = "82005d27a116c2880c8f0fcb866998a0";
+const key = "6580b0376ae5e32221ba6e056d938399";
 
 const API_URL = "http://api.openweathermap.org/data/2.5/weather";
 
