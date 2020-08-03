@@ -1,6 +1,7 @@
 body { 
-    background-image: url(background.jpeg);
-    background-repeat: no-repeat;
+    background: #1f4037;
+    background: -webkit-linear-gradient(to right, #1f4037, #99f2c8);
+    background: linear-gradient(to right, #1f4037, #99f2c8); 
 }
 
 .container{
