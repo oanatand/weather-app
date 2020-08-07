@@ -13,7 +13,7 @@ const KELVIN = 273;
 // API KEY
 const key = "6580b0376ae5e32221ba6e056d938399";
 
-const API_URL = "http://api.openweathermap.org/data/2.5/weather";
+const API_URL = "https://api.openweathermap.org/data/2.5/weather";
 
 if (navigator.geolocation) {
   navigator.geolocation.getCurrentPosition(setPosition, () => {
